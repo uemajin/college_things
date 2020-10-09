@@ -1,0 +1,24 @@
+-- Tempo de speedup --
+/* foi utilizado time ./multMatriz */
+
+Para matrizes 3x3:
+
+-O0 : 0.007s
+-O3 : 0.005s
+
+Para matrizes 1000x1000:
+
+-O0 : 6.497s
+-O3 : 0.004s
+
+-- Utilizando memória cache --
+
+Para matrizes 3x3
+
+-O0 : 0.004s
+-O3 : 0.004s
+
+Para matrizes 1000x1000:
+
+-O0 : 3.836s
+-O3 : 0.005s
