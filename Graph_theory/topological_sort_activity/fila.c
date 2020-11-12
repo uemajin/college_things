@@ -1,9 +1,3 @@
-/*
-Nome: Jin Uema - 3184382-4
-Materia : Teoria dos Grafos
-Arquivo : fila.c
-*/
-
 #include <stdlib.h>
 #include <stdio.h>
 
